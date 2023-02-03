@@ -26,9 +26,6 @@ function App() {
                                 <span className="h6">3. Types of data collected</span>: The app collects only the
                                 membership ID
                                 data, which is scanned from a QR code.
-                                No personal
-                                information such as name, address, or contact information is collected.
-
                             </li>
 
                             <li className="list-group-item">
