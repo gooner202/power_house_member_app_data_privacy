@@ -12,7 +12,7 @@ function App() {
 
                         <ul className="list-item">
                             <li className='list-group-item'>
-                                <span>Children's Privacy</span>1: The app does not knowingly collect personal
+                                <span className="h6">1. Children's Privacy</span>: The app does not knowingly collect personal
                                 information from children or adults. The only data provided by the user is the
                                 membership ID which helps to login
                             </li>
