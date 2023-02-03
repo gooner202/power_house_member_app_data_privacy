@@ -7,7 +7,7 @@ function App() {
         <div className="row">
             <div className="">
                 <div className="mx-4 my-5 text-success">
-                    <h3>Data Policy for Power House Member App</h3>
+                    <h3>Privacy Policy for Power House Member</h3>
                 </div>
                 <div>
 
