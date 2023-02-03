@@ -7,14 +7,19 @@ function App() {
                 <div className="">
                     <div className="mx-4 my-5 text-success">
                         <h3>Privacy Policy for Power House Member</h3>
+
+                        <p>Power House Member is a simple mobile app designed for gym members to check-in at the gym.
+                            The app displays QR Code which is scanned to verify membership</p>
+
+                        <p>We care about your privacy and security of your personal information</p>
                     </div>
+
                     <div>
 
                         <ul className="list-item">
                             <li className='list-group-item'>
-                                <span className="h6">1. Children's Privacy</span>: The app does not knowingly collect personal
-                                information from children or adults. The only data provided by the user is the
-                                membership ID which helps to login
+                                <span className="h6">1. Children's Privacy</span>: The app does not collect
+                                personal information from children or adults.
                             </li>
                             <li className="list-group-item">
                                 <span className="h6">2. Purpose of data collection</span>: During login, only membership
