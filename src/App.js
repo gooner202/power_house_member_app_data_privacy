@@ -5,13 +5,12 @@ function App() {
         <div className="container">
             <div className="row">
                 <div className="">
-                    <div className="mx-4 my-5 text-success">
-                        <h3>Privacy Policy for Power House Member</h3>
+                    <div className="mx-4 my-5">
+                        <h3 className='text-success'>Privacy Policy for Power House Member</h3>
 
                         <p>Power House Member is a simple mobile app designed for gym members to check-in at the gym.
-                            The app displays QR Code which is scanned to verify membership</p>
-
-                        <p>We care about your privacy and security of your personal information</p>
+                            The app displays QR Code which is scanned to verify membership.
+                            We care about your privacy and security of your personal information</p>
                     </div>
 
                     <div>
